@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Re-familiarizing myself with GitHub 
+The biggest challenge in making this was re-familiarizing myself with GitHub 
 
 ## License
 
