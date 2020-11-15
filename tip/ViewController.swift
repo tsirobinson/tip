@@ -11,10 +11,11 @@ class ViewController: UIViewController {
     @IBOutlet weak var billAmountTextField: UITextField!
     @IBOutlet weak var tipControl: UISegmentedControl!
 
+    
     @IBOutlet weak var tipPercentageLabel: UILabel!
     
     @IBOutlet weak var totalLabel: UILabel!
-
+    
     override func viewDidLoad() {
         
         super.viewDidLoad()
